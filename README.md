@@ -28,4 +28,4 @@ mka bacon # To build the ROM
 
 ## 🤝 Credits
 * AdarshGrewall
-* Ommar (Coptain)
+* Omar (Coptain)

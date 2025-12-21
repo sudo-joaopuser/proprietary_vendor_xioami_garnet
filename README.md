@@ -1,5 +1,6 @@
 # 📱 Xiaomi Garnet Vendor Files
 
+## ⚠️ Use 23-Vendor Branch to get Latest Commits
 
 ## 🚀 Installation Guide
 
